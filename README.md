@@ -1,6 +1,2 @@
-# Simple PLC Templates
-M.Sc. Minh-Hoang Ngo, Hochschule Karlsruhe, DE.<br /><br />
-Here I upload some simple templates for the PLC courses that I taught since 2018.<br />
-These templates are used to build the complete projects according to the Lab-Handbooks and Theoretical-Books.<br />
-Hope you could find them interesting. Have a nice day!<br />
-## Branches<br />
+# Industrial Networks
+The main part could be found here: <ins>github.com/tomng111/simple_industrialnet_templates</ins>.
